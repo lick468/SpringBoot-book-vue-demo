@@ -5,7 +5,7 @@
 
 # 前台 Vue
 
-## 进入D:\SpringBoot-book0-vue-demo\front\my-vue 目录下  ，打开cmd
+## 进入D:\SpringBoot-book-vue-demo\front\my-vue 目录下  ，打开cmd
 
 ## 下载依赖
 ## `npm install`    
